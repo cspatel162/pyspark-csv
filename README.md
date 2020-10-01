@@ -63,6 +63,7 @@ Currently, the following data types are supported:
 - date
 - time
 - datetime
+- float
 
 It also recognises **None**, **?**, **NULL**, and **''** as null values
 
